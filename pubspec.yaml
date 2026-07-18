@@ -1,0 +1,10 @@
+name: abbaa_carraa_webhook_bot
+description: Telegram webhook bot for Abbaa Carraa Pro (Render free tier)
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.0
